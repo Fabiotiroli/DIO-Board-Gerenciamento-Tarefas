@@ -1,0 +1,41 @@
+dez. 18, 2025 12:04:06 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408191938.sql
+dez. 18, 2025 12:04:06 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408210954.sql
+dez. 18, 2025 12:04:06 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408211004.sql
+dez. 18, 2025 12:04:06 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408211005.sql
+dez. 18, 2025 12:04:06 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408281807.sql
+dez. 18, 2025 12:04:07 PM liquibase.changelog
+INFO: Reading from board.DATABASECHANGELOG
+Database is up to date, no changesets to execute
+dez. 18, 2025 12:04:07 PM liquibase.changelog
+INFO: Reading from board.DATABASECHANGELOG
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               5
+Filtered out:                 0
+-------------------------------
+Total change sets:            5
+
+dez. 18, 2025 12:04:07 PM liquibase.util
+INFO: UPDATE SUMMARY
+dez. 18, 2025 12:04:07 PM liquibase.util
+INFO: Run:                          0
+dez. 18, 2025 12:04:07 PM liquibase.util
+INFO: Previously run:               5
+dez. 18, 2025 12:04:07 PM liquibase.util
+INFO: Filtered out:                 0
+dez. 18, 2025 12:04:07 PM liquibase.util
+INFO: -------------------------------
+dez. 18, 2025 12:04:07 PM liquibase.util
+INFO: Total change sets:            5
+dez. 18, 2025 12:04:07 PM liquibase.util
+INFO: Update summary generated
+dez. 18, 2025 12:04:07 PM liquibase.lockservice
+INFO: Successfully released change log lock
+dez. 18, 2025 12:04:07 PM liquibase.command
+INFO: Command execution complete

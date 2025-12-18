@@ -12,7 +12,8 @@ import static lombok.AccessLevel.PRIVATE;
 public final class ConnectionConfig {
 
     public static Connection getConnection() throws SQLException {
-        var url = "jdbc:mysql:localhost/board";
+
+        var url = "jdbc:mysql://localhost:3306/board";
         var user = "board";
         var password = "board";
 
